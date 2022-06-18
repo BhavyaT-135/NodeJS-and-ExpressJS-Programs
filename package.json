@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BhavyaT-135/NodeJS-and-ExpressJS-Programs#readme",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "loadash": "^1.0.0"
   }
 }
