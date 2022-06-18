@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BhavyaT-135/NodeJS-and-ExpressJS-Programs/issues"
   },
-  "homepage": "https://github.com/BhavyaT-135/NodeJS-and-ExpressJS-Programs#readme"
+  "homepage": "https://github.com/BhavyaT-135/NodeJS-and-ExpressJS-Programs#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
